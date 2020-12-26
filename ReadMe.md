@@ -13,5 +13,7 @@ To use this project
   
   Screen Shot of application : https://pasteboard.co/JGK2tVg.png
   
-  Application demonstration video : https://streamable.com/6i2f4w
+  Application demonstration video
+      https://youtu.be/ZA_603bBYIA
+      https://streamable.com/6i2f4w
   
